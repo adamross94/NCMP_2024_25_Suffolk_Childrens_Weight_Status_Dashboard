@@ -1,0 +1,3 @@
+﻿AreaName,AreaCode,ReceptionParticipationRatePct,Year6ParticipationRatePct,LowParticipationNote,MissingPostcodePct,MissingPostcodeNote,UnknownEthnicityPct,UnknownEthnicityNote,MissingNHSNumberPct,MissingNHSNumberNote,SourceSheet
+England,E92000001,94.7,93.6,No issue,0.1,No issue,3.5,No issue,8.5,No issue,Table_12
+Suffolk,E10000029,96.2,93.2,No issue,0.0,No issue,0.0,No issue,0.4,No issue,Table_12
